@@ -1,0 +1,80 @@
+*
+{
+    /* padding: 0; */
+    margin: 0;
+    background-color: rgb(157, 103, 207);
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 3px white;
+    background-color: brown;
+    padding:10px;
+}
+label 
+{
+    text-align: center;
+    font-size:20px ;
+
+}
+input
+{
+    
+    border: 2px groove rgb(5, 66, 26);
+    border-radius: 20px;
+    width: 300px;
+    height: 40px;
+    margin: 10px;
+    font-family:cursive;
+    font-weight:bolder;
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 2px 3px 2px rgb(23, 66, 3);
+    background-color: rgb(132, 240, 105);
+    transition: all , 1s;
+}
+input:hover{
+    width: 350px;
+    background-color: aliceblue;
+    
+}
+button
+{
+    font-weight:bolder;
+    width: 320px;
+    margin-top: 10px;
+    height: 45px;
+    background-color: green;
+    box-shadow: 2px 3px 2px rgb(23, 66, 3);
+    transition: all,1s;
+    font-family:cursive;
+    border-radius: 20px;
+    font-size: 25px;
+
+}
+button:hover
+{
+    width: 380px;
+    color: green;
+    background-color: rgb(46, 15, 15);
+}
+
+form{
+    margin-top: 100px;
+    text-align: center;
+
+}
+p{
+    margin: 20px 0px 20px 90px;
+    border:  2px groove black;
+    background-color: blue;
+    display: inline-block;
+    text-align: center;
+    height: 50px;
+    border-radius: 20px;
+    font-family: cursive;
+    padding: 10px;
+    width: 30rem;
+    font-size: large;
+    color: aliceblue;
+
+}
